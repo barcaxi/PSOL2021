@@ -41,10 +41,10 @@ Problem Solving with Robots
 ### Learning Outcomes
 
 @ol[](false)
-- *Build simple robots*
+- ~~Build simple robots~~
 - Use object-oriented code to control robots
 - Use methods and control structures to make robots do stuff
-- *Work cooperatively to develop programming skills*
+- ~~Work cooperatively to develop programming skills~~
 - Use a competitive environment to develop programming skills
 @olend
 
@@ -55,21 +55,39 @@ Problem Solving with Robots
 ### Sylabus Content
 
 @ol[](false)
-- PHP
-- MySQL
+- Sequence, Selection, Iteration
+- Arrays
+- Use Java APIs and the Java Documentation
+- Classes and Objects
+- Class attributes, methods, and constructors
 @olend
 
-
 ---
-
 @title[Assessment]
 ### Assessment
 
 @ul[](true)
 - NO Examination 
-- Continuous Assessment 100%
-	- Assignment 1 - Class Test (Week 8) [30%]
-	- Assignment 2 - Website (Week 12) [70%]
+- 100% Continuous Assessment
+- 4/5 assignments 
+	- 3/4 class tests 
+	- 1 non-class test
+- You will work on your own to get marks
+- ~~You will work in teams to get marks~~
+- You may compete against each other to get marks
+@ulend
+
+---
+@title[Assessment]
+### Assessment
+
+Schedule (Provisional)
+@ul[](true)
+- Assignment 1 Week 5 - Class Test
+- Assignment 2 Week 8 - Class Test*
+- Assignment 3 Week 10 - Class Test
+- Assignment 4 Week 11 - Coding Assignment
+- Assignment 5 Week 12 - Class Test
 @ulend
 
 ---
@@ -78,11 +96,10 @@ Problem Solving with Robots
 ### Resources
 
 @ul[](true)
-- Blackboard - _Server Side Scripting_
-	- links to notes GitHub account
+- Blackboard - _Problem Solving with Robots_
+	- links to notes, exercises, etc via GitHub page
 	- video lectures
-- **GitHub** contains notes, slides, exercises, etc.
-	- [https://github.com/barcaxi/SSS2020](https://github.com/barcaxi/SSS2020)
+	- [https://github.com/barcaxi/PSOL2021](https://github.com/barcaxi/PSOL2021)
 @ulend
 
 ---
@@ -91,8 +108,9 @@ Problem Solving with Robots
 ### Software
 
 @ul[](false)
-- XAMPP
-- Simple editor e.g. Visual Studio Code
+- Java
+- Processing (editor)
+- Robocode
 @ulend
 
 ---
@@ -100,11 +118,32 @@ Problem Solving with Robots
 @title[Historical Results]
 ### Historical Results
 
+Typically, more students fail this module than OOP1 and OOP2 !
+
 @ul[](false)
 
-- @size[1.5em](2019) typical grade was @size[2em](70%)
-- @size[1.5em](2018) typical grade was @size[2em](49%)
-- @size[1.5em](2017) typical grade was @size[2em](61%)
+- @size[1.5em](2020) typical grade was @size[2em](51%)
+- @size[1.5em](2019) typical grade was @size[2em](49%)
+- @size[1.5em](2018) typical grade was @size[2em](42%)
+@ulend
+
+
+---
+@title[Historical Results]
+### Historical Results
+
+**Why do students fail?**
+@ul[](true)
+- Missing classes
+- Not doing ALL assignments
+@ulend
+
+**How can I pass?**
+@ul[](true)
+- Attend ALL classes
+- Do ALL assignments
+- Work hard
+- Ask questions
 @ulend
 
 ---
@@ -115,12 +154,12 @@ Problem Solving with Robots
 @ul[]
 - Do Your Best
 - Attend All Classes 
-- Listen to me
+- Listen to your lecturers
 - Ask questions 
 - Arrive on time
 - Leave on time
 - Do not plagiarise
-- No cellphone use in my lecture/labs
+- No cellphone use in lecture/labs
 @ulend
 
 ---
@@ -130,25 +169,12 @@ Problem Solving with Robots
 
 @ul[]
 - Do My Best
-- Be Consistent and Fair
-- Deliver Content
-- Answer questions
+- Help you learn Java
+- Answer your questions
 - Arrive on time
 - Leave on time
-- Report plagiarism
 @ulend
 
-
----?color=black
-
-@title[PHP Demo]
-### PHP Demo
-
-
----?color=black&image=images/php.png&size=auto 40%
-
-@title[PHP]
-### Let's start with PHP...
 
 
 
@@ -157,7 +183,7 @@ Problem Solving with Robots
 @title[The End]
 
 @snap[west headline text-white span-70]
-Server Side Scripting
+Problem Solving with Robots
 @snapend
 
 @snap[south-west]
