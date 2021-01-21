@@ -36,7 +36,6 @@ Problem Solving with Robots
 @ulend
 
 ---
-
 @title[Learning Outcomes]
 ### Learning Outcomes
 
