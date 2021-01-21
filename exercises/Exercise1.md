@@ -104,9 +104,7 @@
 	```
 	You can use a this [Colour Picker](http://www.w3schools.com/colors/colors_picker.asp "Colour Picker") 
 
-1.	Design your own *simple* creature using simple shapes and colors. 
-	Draw the creature by hand using only points, lines, rectangles, and ellipses. 
-	Then using the template program [tut01_creature](../files/exercises/tut01_creature/tut01_creature.zip?raw=true) write the code for the creature using commands like - ```point()```, 
+1.	Using the template program [tut01_creature](../files/exercises/tut01_creature/tut01_creature.zip?raw=true) create a creature called Zoog using commands like - ```point()```, 
 	```line()```, ```rect( )```, ```ellipse()```, ```stroke()``` , and ```fill()```. 
 
 	This is zoog!
