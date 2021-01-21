@@ -108,8 +108,8 @@ Schedule (Provisional)
 
 @ul[](false)
 - Java
-- Processing (editor)
-- Robocode
+- Processing (editor) [Week 1 - 6]
+- Robocode [Week 7 - 12]
 @ulend
 
 ---
