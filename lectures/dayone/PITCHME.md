@@ -61,6 +61,22 @@ Problem Solving with Robots
 - Class attributes, methods, and constructors
 @olend
 
+
+---
+
+@title[Sylabus Content]
+### Sylabus Content Weekly Outline
+
+
+@ol[](true)
+- Week 1 to 6 - Processing
+	- Java fundamentals reviewed
+- Week 7 to 12 - Robocode
+	- Virtual Robot programming
+
+@olend
+
+
 ---
 @title[Assessment]
 ### Assessment
@@ -82,11 +98,11 @@ Problem Solving with Robots
 
 Schedule (Provisional)
 @ul[](true)
-- Assignment 1 Week 5 - Class Test
-- Assignment 2 Week 8 - Class Test*
-- Assignment 3 Week 10 - Class Test
-- Assignment 4 Week 11 - Coding Assignment
-- Assignment 5 Week 12 - Class Test
+- Assignment 1 Week 6 - Class Test (Processing)
+- Assignment 2 Week 9 - Class Test* (Robocode)
+- Assignment 3 Week 11 - Class Test (Robocode)
+- Assignment 4 Week 11 - Coding Assignment (Robocode)
+- Assignment 5 Week 12 - Class Test (Processing & Robocode)
 @ulend
 
 ---
@@ -106,7 +122,7 @@ Schedule (Provisional)
 @title[Software]
 ### Software
 
-@ul[](false)
+@ul[](true)
 - Java
 - Processing (editor) [Week 1 - 6]
 - Robocode [Week 7 - 12]
@@ -176,7 +192,12 @@ Typically, more students fail this module than OOP1 and OOP2 !
 
 
 
+---
 
+@title[Expectations from YOU]
+### Processing
+
+We begin with Processing...
 
 ---?color=black
 @title[The End]
