@@ -2,7 +2,7 @@
 
 ## Part 1 - Program Flow
 
-1.	Run the program [ellipse_moving](../code/notes/ellipseMoving/ellipseMoving.zip?raw=true).
+1.	Run the program [ellipse_moving](../files/exercises/ellipseMoving/ellipseMoving.zip?raw=true).
 
 2.	Modify the code so the ellipse moves twice as fast across the screen.
 
@@ -22,7 +22,7 @@
 
 ## Part 2 - Built-In Variables
 
-1.	Run the program [ellipse_tracking](../code/notes/ellipseTracking/ellipseTracking.zip?raw=true).
+1.	Run the program [ellipse_tracking](../files/exercises/ellipseTracking/ellipseTracking.zip?raw=true).
 
 1.	Modify the code so the radius of the ellipse uses the current mouse y location.
 	Restore the ellipses width and height to 50 when done.
@@ -37,14 +37,14 @@
 
 1.	Uncomment the ``background()`` method in ``setup()`` and comment out ``background()`` method in ``draw()`` run the code again.	Can you explain why you see a trail of ellipses.  Restore the backgrounds when finished.
 
-1.	Run the program [tut01_04_lineDrawing](../files/exercises/tut01_04_lineDrawing/tut01_04_lineDrawing.zip?raw=true). Uncomment the ``background()`` method in ``draw()`` and run the code again.  Again understand when this effect is happening.
+1.	Run the program [ex2_lineDrawing](../files/exercises/ex2_lineDrawing/ex2_lineDrawing.zip?raw=true). Uncomment the ``background()`` method in ``draw()`` and run the code again.  Again understand when this effect is happening.
 
 1.	Create a new program ``ex2_creature_tracking`` that uses both the x and y location of the mouse for the x,y coordinates of your creature.
 
 
 ## Part 3 - Processing Events
 
-1.	Run the program [ellipse_mouse](../code/notes/ellipseMouse/ellipseMouse.zip?raw=true)
+1.	Run the program [ellipse_mouse](../files/exercises/ellipseMouse/ellipseMouse.zip?raw=true)
 
 	Modify the code in ``keyPressed()`` so when the key 'r' is pressed the colour **r**ed will be used next time an ellipse is drawn.  Hint: Use the [``fill()``](https://processing.org/reference/fill_.html "fill()") method.
 
