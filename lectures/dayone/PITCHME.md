@@ -98,10 +98,10 @@ Problem Solving with Robots
 
 Schedule (Provisional)
 @ul[](true)
-- Assignment 1 Week 6 - Class Test (Processing)
-- Assignment 2 Week 11 - Class Test (Robocode)
-- Assignment 3 Week 11 - Coding Assignment (Robocode)
-- Assignment 4 Week 12 - Class Test (Processing & Robocode)
+- Assignment 1 [20%] Week 6 - Class Test (Processing)
+- Assignment 2 [20%] Week 11 - Class Test (Robocode)
+- Assignment 3 [40%] Week 11 - Coding Assignment (Robocode)
+- Assignment 4 [20%] Week 12 - Class Test (Processing & Robocode)
 @ulend
 
 ---
