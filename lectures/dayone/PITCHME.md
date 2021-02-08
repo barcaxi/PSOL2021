@@ -84,8 +84,8 @@ Problem Solving with Robots
 @ul[](true)
 - NO Examination 
 - 100% Continuous Assessment
-- 4/5 assignments 
-	- 3/4 class tests 
+- 4 assignments 
+	- 3 class tests 
 	- 1 non-class test
 - You will work on your own to get marks
 - ~~You will work in teams to get marks~~
@@ -99,10 +99,9 @@ Problem Solving with Robots
 Schedule (Provisional)
 @ul[](true)
 - Assignment 1 Week 6 - Class Test (Processing)
-- Assignment 2 Week 9 - Class Test* (Robocode)
-- Assignment 3 Week 11 - Class Test (Robocode)
-- Assignment 4 Week 11 - Coding Assignment (Robocode)
-- Assignment 5 Week 12 - Class Test (Processing & Robocode)
+- Assignment 2 Week 11 - Class Test (Robocode)
+- Assignment 3 Week 11 - Coding Assignment (Robocode)
+- Assignment 4 Week 12 - Class Test (Processing & Robocode)
 @ulend
 
 ---
