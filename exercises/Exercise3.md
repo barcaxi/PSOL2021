@@ -10,7 +10,7 @@
 
 1.	Update the code so the circle drawn looks like this:
 
-	![](../images/week3_01.png "Yellow Circle")
+	![week3_01](../images/week3_01.png)
 
 
 
