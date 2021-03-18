@@ -116,4 +116,3 @@
 4.	A heading of 45 is point due ...
 
 5.	True or False:  When your robot gets hit by a bullet you can get the bullet's heading.
-
