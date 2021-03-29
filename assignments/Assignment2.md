@@ -5,7 +5,7 @@ Your robot will play 100 rounds against each of the 3 robots, a total of 300 rou
 
 ## Instructions 
 
-Download the assignment ``a2`` package folder [here](https://github.com/barcaxi/psol2017/blob/master/code/robocode/a2.zip?raw=true).
+Download the assignment ``a2`` package folder [here](https://github.com/barcaxi/PSOL2021/blob/main/assignments/a2.zip?raw=true).
 
 Copy this folder into your ``robocode/robots`` folder.  When you run Robocode you will see 3 new opponent robots, ``Suarez9``, ``Pique5`` and ``FireFly`` in the ``a2`` package.
 
