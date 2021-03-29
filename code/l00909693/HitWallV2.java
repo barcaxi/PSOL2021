@@ -1,4 +1,4 @@
-package L00909693;
+package l00909693;
 import robocode.*;
 
 public class HitWallV2 extends Robot
